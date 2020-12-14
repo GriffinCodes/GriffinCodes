@@ -1,16 +1,23 @@
-### Hi there 👋
+## Sleep, eat, code, hike
 
-<!--
-**Pugabyte/Pugabyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft community I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
 
-Here are some ideas to get you started:
+### Stuff I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="bootstrap" width="40" height="40" />
+</p>
+
+### A cool graphic
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Pugabyte&show_icons=true&theme=radical)
