@@ -2,7 +2,7 @@
 
 <p>
 Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft server. I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
-  <div style="float:right">
+  <div float="right">
     <span>
       <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" />
       <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" />
