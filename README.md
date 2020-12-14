@@ -2,8 +2,6 @@
 
 Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft community I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
 
-### Stuff I work with
-
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" />
@@ -17,7 +15,5 @@ Hi there, I'm the owner and lead developer of Project Eden, a small community mi
   <img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" alt="bootstrap" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="bootstrap" width="40" height="40" />
 </p>
-
-### A cool graphic
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Pugabyte&show_icons=true&theme=radical)
