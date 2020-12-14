@@ -1,19 +1,25 @@
 ## Sleep, eat, code, hike
 
-<p>
-Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft server. I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
-  <div float="right">
-    <span>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" />
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" />
-    </span>
-    <br/>
-    <span>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="bootstrap" width="40" height="40" />
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="bootstrap" width="40" height="40" />
-    </span>
-  </div>
-</p>
+<table border="0">
+  <tr>
+    <td width="85%">
+      Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft server. I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
+      Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft server. I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
+      Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft server. I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
+      Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft server. I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
+    </td>
+    <td valign="top">
+      <div align="right">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" />
+      </div>
+      <div align="right">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="bootstrap" width="40" height="40" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="bootstrap" width="40" height="40" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!--
 <p align="left">
