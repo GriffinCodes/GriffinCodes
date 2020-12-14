@@ -16,4 +16,6 @@ Hi there, I'm the owner and lead developer of Project Eden, a small community mi
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="bootstrap" width="40" height="40" />
 </p>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Pugabyte&show_icons=true&theme=radical&custom_title=Pugabyte's%20Github%20Stats&bg_color=90,000000,1a1a1a&text_color=aaaaaa&title_color=915bf5)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Pugabyte&show_icons=true&theme=radical&custom_title=Pugabyte's%20Github%20Stats&bg_color=90,000000,1a1a1a&text_color=aaaaaa&title_color=915bf5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pugabyte&layout=compact&bg_color=90,000000,1a1a1a&text_color=aaaaaa&title_color=915bf5)](https://github.com/anuraghazra/github-readme-stats)
