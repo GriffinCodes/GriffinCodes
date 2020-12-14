@@ -1,6 +1,6 @@
 ## Sleep, eat, code, hike
 
-Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft community I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
+Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft community. I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" />
