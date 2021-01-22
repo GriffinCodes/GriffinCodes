@@ -1,8 +1,8 @@
 ## Sleep, eat, code, hike
 
 <img src="https://static.wikia.nocookie.net/minecraft/images/f/fe/GrassNew.png/revision/latest/scale-to-width-down/40" width="40" height="40" align="right"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" align="right"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" align="right"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" align="right"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" align="right"/>
 
 Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft server. I also work as a Software Developer at ClearGage. If I'm not coding, I'm hiking with my dog.
 
