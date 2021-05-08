@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" align="right"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" align="right"/>
 
-Hi there, I'm the owner and lead developer of Project Eden, a small community minecraft server. If I'm not coding, I'm hiking with my dog.
+Hi there, I'm the owner and lead developer of @ProjectEdenGG, a community minecraft server. If I'm not coding, I'm hiking with my dog.
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pugabyte&layout=compact&bg_color=00000000&text_color=858585&title_color=915bf5&hide_border=true&custom_title=Weekly%20Stats" />
 
