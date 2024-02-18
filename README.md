@@ -1,7 +1,7 @@
 ## Sleep, eat, code, hike
 
 <img src="https://static.wikia.nocookie.net/minecraft/images/f/fe/GrassNew.png/revision/latest/scale-to-width-down/40" width="40" height="40" align="right"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" align="right"/>
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg](https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/ubuntu/ubuntu-plain.svg)" alt="bootstrap" width="40" height="40" align="right"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" align="right"/>
 
 Hi there, I'm a Software Developer at [Physicians Mutual](https://physiciansmutual.com), and the owner and lead developer of [@ProjectEdenGG](https://github.com/ProjectEdenGG), a community minecraft server. If I'm not coding, I'm hiking with my dog.
