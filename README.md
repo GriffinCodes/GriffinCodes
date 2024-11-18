@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="40" height="40" align="right"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" align="right"/>
 
-Hi there, I'm a Software Developer at [Physicians Mutual](https://physiciansmutual.com), and the owner and lead developer of [@ProjectEdenGG](https://github.com/ProjectEdenGG), a community minecraft server. If I'm not coding, I'm hiking with my dog.
+Hi there, I'm a Software Engineer at [Physicians Mutual](https://physiciansmutual.com), and the owner and lead developer of [@ProjectEdenGG](https://github.com/ProjectEdenGG), a community minecraft server. If I'm not coding, I'm hiking with my dog.
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=GriffinCodes&layout=compact&bg_color=00000000&text_color=858585&title_color=915bf5&hide_border=true&custom_title=Weekly%20Stats" />
 
